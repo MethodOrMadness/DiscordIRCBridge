@@ -1,0 +1,16 @@
+{
+    "link": [
+        {
+            "name": "Link1",
+            "discordChannelID": "813460669826056193",
+            "ircChannel": "#Linked-1",
+            "embedMessages": true
+        },
+        {
+            "name": "Link2",
+            "discordChannelID": "814632736547207434",
+            "ircChannel": "#Linked-2",
+            "embedMessages": false
+        }
+    ]
+}

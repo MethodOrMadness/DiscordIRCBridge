@@ -1,0 +1,12 @@
+{
+	"host": "127.0.0.1",
+    "port": 6667,
+    "ssl": true,
+    "selfssl": true,
+    "username": "JSBot",
+    "nickname": "DBridge",
+    "password": "JSBot",
+
+    "token": "",
+    "prefix": "!"
+}

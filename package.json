@@ -1,0 +1,21 @@
+{
+  "name": "ircbot",
+  "version": "1.0.0",
+  "description": "Discord <-> IRC is a discord / IRC bot to proxy messages to each other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "192.168.1.6:/server-apps/git/ircbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "enmap": "^5.8.4",
+    "irc": "^0.5.2",
+    "md5": "^2.3.0"
+  }
+}
