@@ -38,6 +38,9 @@ Add the irc channel name and discord channel ID along with a unique name and set
 
 ## Credits
 MethodOrMadness for the original base code + optimizations
+
 Devnol for huge optimizations(mainly helping take the code from 250 to around 100 lines)
+
 The Discord.JS Developers
+
 The IRC library Developers
