@@ -12,7 +12,7 @@ npm i
 
 ## Usage
 
-Configure the IRC settings in `botconfig.json`
+Configure the IRC settings and discord bot token / prefix in `botconfig.json`
 
 Add the irc channel name and discord channel ID along with a unique name and set the `embedMessages` to true or false in `channels.json`
 
